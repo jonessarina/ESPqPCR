@@ -1,27 +1,3 @@
-# File Name: D:\qPCR\Mono vs Coculture Trial 2 072825.eds
-# Comment: 
-# Operator: DEFAULT
-# Barcode: 
-# Instrument Type: QuantStudio™ 5 System
-# Block Type: 384-Well Block
-# Instrument Name: 272531727
-# Instrument Serial Number: 272531727
-# Heated Cover Serial Number:
-# Block serial number: 20280764
-# Run Start Date/Time: 2025-07-28 11:06:12 AM EDT
-# Run End Data/Time: 2025-07-28 12:58:06 PM EDT
-# Run Duration: 111 minutes 54 seconds
-# Sample Volume: 10.0
-# Cover Temperature: 105.0
-# Passive Reference: ROX
-# PCR Stage/Step Number: Stage 2 Step 3
-# Melt Stage Number: 3
-# Quantification Cycle Method: CT
-# Analysis Date/Time: 2025-07-28 04:24:07 PM EDT
-# Software Name and Version: Design & Analysis Software v2.8.0
-# Plugin Name and Version: Primary Analysis v1.8.1, Relative Quantification v1.7.0
-# Reduce dye signal crosstalk by algorithm: No (Default)
-# Exported On: 2025-07-28 04:27:48 PM EDT
 "Sample","Target","Number of Replicates","Quantity","Number of Cqs","Cq Mean","Cq SD","Cq SE","Biogroup"
 "152","Bactin","4","-","0","21.542200836654303","0.45455254493638814","0.22727627246819407",
 "152","ESR1","4","-","0","","","",
